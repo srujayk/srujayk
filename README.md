@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Srujay! I study EECS and Business at UC Berkeley.
+I'm Srujay! I study EECS and Business at UC Berkeley. 🐻
 
 <!--
 **srujayk/srujayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
